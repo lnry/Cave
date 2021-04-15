@@ -1,0 +1,2 @@
+from .ModelNet40ClsDataSet import ModelNet40Cls
+from .ShapeNetPartDataSet import ShapeNetPart
